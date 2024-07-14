@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="center">I'm a Data Science aspirant 📊<br><br>Currently looking for a job 🔎</h5>
+<h5 align="center">I'm a Data Science aspirant 📊<br><br>Currently looking for a job 🔎 <a href="mailto:bhuvaneshprasad10@gmail.com">(Email me)</a></h5>
 
 ###
 
@@ -41,7 +41,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" height="40" alt="amazonwebservices logo"  />
+  <
+img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" height="40" alt="amazonwebservices logo"  />
 <!--   <img width="24" height="24" src="https://img.icons8.com/material/24/000000/amazon-web-services.png" alt="amazon-web-services"/> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
