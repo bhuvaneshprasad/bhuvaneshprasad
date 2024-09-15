@@ -6,11 +6,9 @@
 
 ###
 
-<h5 align="center">I'm a Data Science aspirant 📊<br><br>Currently looking for a job 🔎 <a href="mailto:bhuvaneshprasad10@gmail.com">(Email me)</a></h5>
-
 ###
 
-<p align="left">I have technical expertise and interest in:<br><br>👉🏻 Python, SQL<br>👉🏻 Machine Learning<br>👉🏻 Deep Learning<br>👉🏻 Computer vision (CV)<br>👉🏻 Natural Language Processing (NLP)<br>👉🏻 MLOps</p>
+<p align="left">I have technical expertise and interest in:<br><br>👉🏻 Python, SQL<br>👉🏻 Generative AI<br>👉🏻 Gen AI Frameworks<br>👉🏻 Machine Learning<br>👉🏻 Deep Learning<br>👉🏻 Computer vision (CV)<br>👉🏻 Natural Language Processing (NLP)<br>👉🏻 MLOps</p>
 
 ###
 
