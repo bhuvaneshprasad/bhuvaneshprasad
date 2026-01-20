@@ -13,23 +13,19 @@ I’m an AI developer passionate about building smart, scalable backends for ent
 ---
 
 🛠️ **Tech Stack & Tools**  
-- 💻 **Languages & Frameworks**: Python, FastAPI  
-- ⚙️ **Tools & Platforms**: Postman, Linux, PostgreSQL  
-- ☁️ **AI Platforms**: OpenAI, Azure OpenAI, Claude, Gemini  
-- 🔗 **Frameworks**: LangChain, LangGraph
+- 💻 **Languages & Frameworks**: Python, Javascript, FastAPI, Next JS, React JS  
+- ⚙️ **Tools & Platforms**: Postman, Linux, AWS, PostgreSQL
+- ☁️ **AI Tools**: Cursor, Opencode
 
 ---
 
 🔧 **What I’m Building**  
-- 🗂️ Document Chat & SEC Chat Applications — backend systems powered by RAG for enterprise users  
-- 📚 [DSA-Central](https://github.com/bhuvaneshprasad/dsa-central) — my journey into DSA, documenting fundamental concepts, code implementations, and practice problems from various platforms
-
+- 📊🤖 [Finage](https://github.com/bhuvaneshprasad/finage) - A dual mode (Visual + AI Agents) mutual funds and stock analytics platform
 ---
 
 📈 **Currently Exploring**  
 - Building AI-powered personal finance tools  
-- Applying AI to streamline investment decisions  
-- Diving deeper into DSA from the ground up
+- Applying AI to streamline investment decisions
 
 ---
 
