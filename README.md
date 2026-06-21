@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhuvanesh Prasad
 
-### 🧠 AI Developer | 💼 Software Engineer at [Numero.io](https://numero.io)  
+### 🧠 AI Developer | 💼 Forward Deployed Engineer at [Numero.io](https://numero.io)  
 📍 Chennai, Tamil Nadu, India
 
 ---
@@ -13,19 +13,18 @@ I’m an AI developer passionate about building smart, scalable backends for ent
 ---
 
 🛠️ **Tech Stack & Tools**  
-- 💻 **Languages & Frameworks**: Python, Javascript, FastAPI, Next JS, React JS  
+- 💻 **Languages & Frameworks**: Python, Go, Javascript, Next JS
 - ⚙️ **Tools & Platforms**: Postman, Linux, AWS, PostgreSQL
-- ☁️ **AI Tools**: Cursor, Opencode
+- ☁️ **AI Tools**: Codex, Claude Code, Cursor, Opencode
 
 ---
 
 🔧 **What I’m Building**  
-- 📊🤖 [Finage](https://github.com/bhuvaneshprasad/finage) - A dual mode (Visual + AI Agents) mutual funds and stock analytics platform
+- 📊🤖 [Keel](https://github.com/bhuvaneshprasad/finage](https://github.com/usekeel/keel) - AI Infra platform for routing, observability, evals, etc
 ---
 
 📈 **Currently Exploring**  
-- Building AI-powered personal finance tools  
-- Applying AI to streamline investment decisions
+- Building AI-Infra Platform
 
 ---
 
