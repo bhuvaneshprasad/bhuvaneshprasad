@@ -20,7 +20,7 @@ I’m an AI developer passionate about building smart, scalable backends for ent
 ---
 
 🔧 **What I’m Building**  
-- 📊🤖 [Keel](https://github.com/usekeel/keel) - AI Infra platform for routing, observability, evals, etc
+- 📊🤖 [Octyne](https://github.com/octyne/octyne) - AI Infra platform for routing, observability, evals, etc
 ---
 
 📈 **Currently Exploring**  
